@@ -1,0 +1,33 @@
+
+.course-icons {
+    
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4rem;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.course-icons i {
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.course-icons a {
+    text-decoration: none;
+}
+
+.course {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+p.name-of-course {
+    text-align: left;
+    margin: 0;
+}
+
+.artice p {}
